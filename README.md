@@ -4,4 +4,4 @@
 *Le sujet du projet porte sur les structures 3D et 2D des ARN* 
 Le projet utilise comme langage de programmation : le langage python
 
-# Objectif :
+# Objectif projet : 
